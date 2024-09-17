@@ -96,5 +96,6 @@ h1 span {
 }
 
 #cta {
-  margin: 10px 0;
+  display: inline-block;
+  margin: 50px 0;
 }
